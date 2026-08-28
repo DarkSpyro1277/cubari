@@ -1,0 +1,17 @@
+{
+  "title": "e.g.Le Bizzarre Avventure di JoJo Parte 9 - The JOJOlands",
+  "description": "",
+  "artist": "ARAKI Hirohiko",
+  "author": "ARAKI Hirohiko",
+  "cover": "https://static.jojowiki.com/images/f/f5/latest/20260828073507/Volume_140.jpg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1787915139",
+      "groups": {
+        "Under The Moon SCANS": "/proxy/api/imgur/chapter/5P4OFvq"
+      }
+    }
+  }
+}
